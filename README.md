@@ -24,7 +24,7 @@
 * **Right box (WITH):** The new animation you want it to look like.
 * Click **Inject** to swap them. Click **Default** to fix it back to normal.
 
-> 💡 **TIP:** Setting the **WITH** box to `[Null]` completely deletes the animation. Your skater will freeze mid-air when doing the trick. Try it out on different tricks for glitched outcomes.
+> 💡 **TIP:** Setting the **WITH** box to `[Null]` completely deletes the animation. Your skater will freeze in an animation when doing the trick. Try it out on different tricks for glitched outcomes.
 
 ---
 
