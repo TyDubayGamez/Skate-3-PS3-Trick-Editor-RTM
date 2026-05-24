@@ -1,0 +1,1272 @@
+[
+    {
+        "description": "Hardflip",
+        "address": "40E69FF0",
+        "type": "Flip"
+    },
+    {
+        "description": "Laser Flip",
+        "address": "40E6A100",
+        "type": "Flip"
+    },
+    {
+        "description": "Quad Kickflip",
+        "address": "40E6A210",
+        "type": "Flip"
+    },
+    {
+        "description": "Triple Kickflip",
+        "address": "40E6A330",
+        "type": "Flip"
+    },
+    {
+        "description": "Mute Tailbone",
+        "address": "40E6A510",
+        "type": "Grab"
+    },
+    {
+        "description": "Mute to BS",
+        "address": "40E6A620",
+        "type": "Grab"
+    },
+    {
+        "description": "Mute",
+        "address": "40E6A730",
+        "type": "Grab"
+    },
+    {
+        "description": "Double Kickflip",
+        "address": "40E6A840",
+        "type": "Flip"
+    },
+    {
+        "description": "Triple Heelflip",
+        "address": "40E6A960",
+        "type": "Flip"
+    },
+    {
+        "description": "Double Heelflip",
+        "address": "40E6AA80",
+        "type": "Flip"
+    },
+    {
+        "description": "Heelflip",
+        "address": "40E6AB90",
+        "type": "Flip"
+    },
+    {
+        "description": "Quad Heelflip",
+        "address": "40E6ACA0",
+        "type": "Flip"
+    },
+    {
+        "description": "Kickflip",
+        "address": "40E6ADC0",
+        "type": "Flip"
+    },
+    {
+        "description": "Inward Heelflip",
+        "address": "40E6AED0",
+        "type": "Flip"
+    },
+    {
+        "description": "Hippy Jump",
+        "address": "40E6AFE0",
+        "type": "Misc"
+    },
+    {
+        "description": "Tail Grab FS Noseblunt",
+        "address": "40E6B1F8",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Nosegrind",
+        "address": "40E6B318",
+        "type": "Grind"
+    },
+    {
+        "description": "UNKOWN",
+        "address": "40E6B428",
+        "type": "Misc"
+    },
+    {
+        "description": "FS Noseblunt",
+        "address": "40E6B538",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Nose",
+        "address": "40E6B648",
+        "type": "Grind"
+    },
+    {
+        "description": "Tail Grab FS Nose Slide",
+        "address": "40E6B758",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Grab FS Nose Grind",
+        "address": "40E6B868",
+        "type": "Grind"
+    },
+    {
+        "description": "Tail Grab FS Nose Grind",
+        "address": "40E6B978",
+        "type": "Grind"
+    },
+    {
+        "description": "FS One Foot Plant",
+        "address": "40E6BA88",
+        "type": "Grab"
+    },
+    {
+        "description": "Stiffy Handplant",
+        "address": "40E6BB98",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Gymnast Plant",
+        "address": "40E6BCA8",
+        "type": "Grab"
+    },
+    {
+        "description": "Frigid Plant",
+        "address": "40E6BDB8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Boned Plant",
+        "address": "40E6C0F8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Lip",
+        "address": "40E6C208",
+        "type": "Grind"
+    },
+    {
+        "description": "Nose Grab FS Tail Slide",
+        "address": "40E6C318",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Willy",
+        "address": "40E6C428",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Smith",
+        "address": "40E6C538",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Tail",
+        "address": "40E6C658",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Grab FS Overcrooks",
+        "address": "40E6CBC0",
+        "type": "Grind"
+    },
+    {
+        "description": "Tail Grab FS Overcrooks",
+        "address": "40E6CCD0",
+        "type": "Grind"
+    },
+    {
+        "description": "Frigid Air",
+        "address": "40E6CDE0",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Overcrooks",
+        "address": "40E6CEF0",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Grab FS Salad",
+        "address": "40E6D000",
+        "type": "Grind"
+    },
+    {
+        "description": "Nose Grab FS Salad",
+        "address": "40E6D110",
+        "type": "Grind"
+    },
+    {
+        "description": "FS over Willy",
+        "address": "40E6D220",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Salad",
+        "address": "40E6D330",
+        "type": "Grind"
+    },
+    {
+        "description": "Mute Flip",
+        "address": "40E6D440",
+        "type": "Grab"
+    },
+    {
+        "description": "Seatbelt to Nose",
+        "address": "40E6D6D0",
+        "type": "Grab"
+    },
+    {
+        "description": "Stale",
+        "address": "40E6D998",
+        "type": "Grab"
+    },
+    {
+        "description": "Stale Flip",
+        "address": "40E6D998",
+        "type": "Grab"
+    },
+    {
+        "description": "Front Foot",
+        "address": "40E6DC28",
+        "type": "Misc"
+    },
+    {
+        "description": "Pop Shuvit",
+        "address": "40E6DD48",
+        "type": "Flip"
+    },
+    {
+        "description": "Ollie",
+        "address": "40E6DE58",
+        "type": "Flip"
+    },
+    {
+        "description": "Back Foot",
+        "address": "40E6DF68",
+        "type": "Misc"
+    },
+    {
+        "description": "BS Shifty Seatbelt",
+        "address": "40E6E088",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Shifty Seatbelt",
+        "address": "40E6E198",
+        "type": "Grab"
+    },
+    {
+        "description": "Rocket Air",
+        "address": "40E6E2A8",
+        "type": "Grab"
+    },
+    {
+        "description": "Seatbelt",
+        "address": "40E6E3B8",
+        "type": "Grab"
+    },
+    {
+        "description": "One Foot Tail Grab",
+        "address": "40E6E4C8",
+        "type": "Grab"
+    },
+    {
+        "description": "Benihanna",
+        "address": "40E6E5D8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Shifty Tail Grab",
+        "address": "40E6E7F8",
+        "type": "Grab"
+    },
+    {
+        "description": "Varial Heelflip",
+        "address": "40E6E908",
+        "type": "Flip"
+    },
+    {
+        "description": "Varial Kickflip",
+        "address": "40E6EA18",
+        "type": "Flip"
+    },
+    {
+        "description": "BS Shifty Tail Grab",
+        "address": "40E6EB28",
+        "type": "Grab"
+    },
+    {
+        "description": "Manual",
+        "address": "40E6EC38",
+        "type": "Misc"
+    },
+    {
+        "description": "Stale Tuck Knee",
+        "address": "40E6EE68",
+        "type": "Grab"
+    },
+    {
+        "description": "Stale to FS",
+        "address": "40E6EF78",
+        "type": "Grab"
+    },
+    {
+        "description": "Stale Tailbone",
+        "address": "40E6F088",
+        "type": "Grab"
+    },
+    {
+        "description": "Tail Grab",
+        "address": "40E6F198",
+        "type": "Grab"
+    },
+    {
+        "description": "Tail Flip",
+        "address": "40E6F198",
+        "type": "Grab"
+    },
+    {
+        "description": "Airwalk",
+        "address": "40E6F2A8",
+        "type": "Grab"
+    },
+    {
+        "description": "Tailwalk",
+        "address": "40E6F2A8",
+        "type": "Grab"
+    },
+    {
+        "description": "Stale Nosebone",
+        "address": "40E6F3B8",
+        "type": "Grab"
+    },
+    {
+        "description": "Superdude",
+        "address": "40E6F4C8",
+        "type": "Grab"
+    },
+    {
+        "description": "Nollie Varial Kickflip",
+        "address": "40E6F5D8",
+        "type": "Flip"
+    },
+    {
+        "description": "Dog Piss",
+        "address": "40E6F6E8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Shifty Nose Grab",
+        "address": "40E6F7F8",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Shifty Nose Grab",
+        "address": "40E6F908",
+        "type": "Grab"
+    },
+    {
+        "description": "Judo Nose Grab",
+        "address": "40E6FA18",
+        "type": "Grab"
+    },
+    {
+        "description": "Nollie 360 Hardflip",
+        "address": "40E6FB28",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie 360 Inward Heel",
+        "address": "40E6FC38",
+        "type": "Flip"
+    },
+    {
+        "description": "Nose Manual",
+        "address": "40E6FD48",
+        "type": "Misc"
+    },
+    {
+        "description": "Nollie 360 Flip",
+        "address": "40E6FE68",
+        "type": "Flip"
+    },
+    {
+        "description": "No-Comply",
+        "address": "40E6FF78",
+        "type": "Misc"
+    },
+    {
+        "description": "No-Foot Air",
+        "address": "40E70088",
+        "type": "Grab"
+    },
+    {
+        "description": "Mute Tuck Knee",
+        "address": "40E70198",
+        "type": "Grab"
+    },
+    {
+        "description": "Mute Nosebone",
+        "address": "40E702A8",
+        "type": "Grab"
+    },
+    {
+        "description": "Nose Fingerflip",
+        "address": "40E704C8",
+        "type": "Grab"
+    },
+    {
+        "description": "Nollie",
+        "address": "40E705E8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nose Grab",
+        "address": "40E706F8",
+        "type": "Grab"
+    },
+    {
+        "description": "Nollie Double Kickflip",
+        "address": "40E70808",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Triple Kickflip",
+        "address": "40E70918",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Inward Heelflip",
+        "address": "40E70A38",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Kickflip",
+        "address": "40E70B48",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Pop Shuvit",
+        "address": "40E70C58",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Varial Heelflip",
+        "address": "40E70D68",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Quad Kickflip",
+        "address": "40E70E88",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Laser Flip",
+        "address": "40E70FA8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie FS Pop Shuvit",
+        "address": "40E710B8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Hardflip",
+        "address": "40E711C8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie 360 Pop Shuvit",
+        "address": "40E712D8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie FS 360 Pop Shuvit",
+        "address": "40E713E8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Triple Heelflip",
+        "address": "40E714F8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Quad Heelflip",
+        "address": "40E71618",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Heelflip",
+        "address": "40E71738",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Double Heelflip",
+        "address": "40E71848",
+        "type": "Flip"
+    },
+    {
+        "description": "Tweak Plant",
+        "address": "40E71B78",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Lip",
+        "address": "40E71C88",
+        "type": "Grind"
+    },
+    {
+        "description": "UNKOWN",
+        "address": "40E71D98",
+        "type": "Misc"
+    },
+    {
+        "description": "BS Nosegrind",
+        "address": "40E71EA8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Grab BS Nose Grind",
+        "address": "40E71FB8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Noseblunt",
+        "address": "40E720C8",
+        "type": "Grind"
+    },
+    {
+        "description": "Tail Grab BS Noseblunt",
+        "address": "40E721E8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Handplant",
+        "address": "40E722F8",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Tuck Knee Plant",
+        "address": "40E72408",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Dark Slide Tail Grab",
+        "address": "40E72528",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Feeble",
+        "address": "40E72638",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Feeble",
+        "address": "40E72638",
+        "type": "Grind"
+    },
+    {
+        "description": "Crossbone Handplant",
+        "address": "40E72748",
+        "type": "Grab"
+    },
+    {
+        "description": "Judo Handplant",
+        "address": "40E72858",
+        "type": "Grab"
+    },
+    {
+        "description": "Method Handplant",
+        "address": "40E72968",
+        "type": "Grab"
+    },
+    {
+        "description": "Gymnast Plant",
+        "address": "40E72A78",
+        "type": "Grab"
+    },
+    {
+        "description": "One Foot Plant",
+        "address": "40E72B88",
+        "type": "Grab"
+    },
+    {
+        "description": "Nose Grab BS Salad",
+        "address": "40E72C98",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Smith",
+        "address": "40E72DA8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Salad",
+        "address": "40E72EB8",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Grab BS Salad",
+        "address": "40E72FC8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Tail",
+        "address": "40E730D8",
+        "type": "Grind"
+    },
+    {
+        "description": "Christ Air",
+        "address": "40E731E8",
+        "type": "Grab"
+    },
+    {
+        "description": "Coffin",
+        "address": "40E732F8",
+        "type": "Misc"
+    },
+    {
+        "description": "Nose Grab BS Tail Slide",
+        "address": "40E73418",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Willy",
+        "address": "40E73528",
+        "type": "Grind"
+    },
+    {
+        "description": "Tail Grab BS Nose Slide",
+        "address": "40E73638",
+        "type": "Grind"
+    },
+    {
+        "description": "One Foot",
+        "address": "40E73748",
+        "type": "Grab"
+    },
+    {
+        "description": "Tail Grab BS Nose Grind",
+        "address": "40E73858",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Nose",
+        "address": "40E73968",
+        "type": "Grind"
+    },
+    {
+        "description": "Judo",
+        "address": "40E73A78",
+        "type": "Grab"
+    },
+    {
+        "description": "Tail Grab BS Overcrooks",
+        "address": "40E73B98",
+        "type": "Grind"
+    },
+    {
+        "description": "BS over Willy",
+        "address": "40E73CA8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Overcrooks",
+        "address": "40E73DB8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Grab BS Overcrooks",
+        "address": "40E73EC8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Fingerflip",
+        "address": "40E73FD8",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Footplant",
+        "address": "40E740E8",
+        "type": "Grab"
+    },
+    {
+        "description": "Judo Footplant",
+        "address": "40E74208",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Tweak",
+        "address": "40E74318",
+        "type": "Grab"
+    },
+    {
+        "description": "Cross Bone",
+        "address": "40E74428",
+        "type": "Grab"
+    },
+    {
+        "description": "UNKOWN",
+        "address": "40E74538",
+        "type": "Misc"
+    },
+    {
+        "description": "BS Revert",
+        "address": "40E745F8",
+        "type": "Misc"
+    },
+    {
+        "description": "Method",
+        "address": "40E746B8",
+        "type": "Grab"
+    },
+    {
+        "description": "Melon",
+        "address": "40E747C8",
+        "type": "Grab"
+    },
+    {
+        "description": "360 Inward Heelflip",
+        "address": "40E748E8",
+        "type": "Flip"
+    },
+    {
+        "description": "360 Pop Shuvit",
+        "address": "40E749F8",
+        "type": "Flip"
+    },
+    {
+        "description": "360 Flip",
+        "address": "40E74B08",
+        "type": "Flip"
+    },
+    {
+        "description": "360 Hardflip",
+        "address": "40E74C28",
+        "type": "Flip"
+    },
+    {
+        "description": "Bean Plant",
+        "address": "40E74D38",
+        "type": "Grab"
+    },
+    {
+        "description": "BS to Mute",
+        "address": "40E74E48",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Varial",
+        "address": "40E74F58",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Fastplant",
+        "address": "40E75068",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Grab",
+        "address": "40E75178",
+        "type": "Grab"
+    },
+    {
+        "description": "UNKOWN",
+        "address": "40E75298",
+        "type": "Misc"
+    },
+    {
+        "description": "BS Crooked",
+        "address": "40E753A8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Grab BS Crooks",
+        "address": "40E756D8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Dark Slide Double Grab",
+        "address": "40E757E8",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Dark Slide Nose Grab",
+        "address": "40E758F8",
+        "type": "Grind"
+    },
+    {
+        "description": "Tail Grab BS Crooks",
+        "address": "40E75A08",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Dark Slide",
+        "address": "40E75B18",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Grab BS 50-50",
+        "address": "40E75C28",
+        "type": "Grind"
+    },
+    {
+        "description": "BS 5-0",
+        "address": "40E75D38",
+        "type": "Grind"
+    },
+    {
+        "description": "BS 50-50",
+        "address": "40E75E48",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Grab BS 50-50",
+        "address": "40E75F20",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Grab BS 5-0",
+        "address": "40E76030",
+        "type": "Grind"
+    },
+    {
+        "description": "Nose Grab BS Blunt",
+        "address": "40E76140",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Board",
+        "address": "40E76250",
+        "type": "Grind"
+    },
+    {
+        "description": "Nose Grab BS 5-0",
+        "address": "40E76360",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Blunt",
+        "address": "40E76470",
+        "type": "Grind"
+    },
+    {
+        "description": "Nosebone",
+        "address": "40E76580",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Pop Shuvit",
+        "address": "40E76690",
+        "type": "Flip"
+    },
+    {
+        "description": "Tuck Knee",
+        "address": "40E767A0",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Footplant",
+        "address": "40E768B0",
+        "type": "Grab"
+    },
+    {
+        "description": "Stiffy",
+        "address": "40E769D0",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Grab FS 50-50",
+        "address": "40E76AE0",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Grab FS 50-50",
+        "address": "40E76BF0",
+        "type": "Grind"
+    },
+    {
+        "description": "FS 50-50",
+        "address": "40E76D00",
+        "type": "Grind"
+    },
+    {
+        "description": "Powerslide",
+        "address": "40E76DD8",
+        "type": "Misc"
+    },
+    {
+        "description": "FS Revert",
+        "address": "40E76E98",
+        "type": "Misc"
+    },
+    {
+        "description": "FS Fastplant",
+        "address": "40E76F58",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Grab",
+        "address": "40E77078",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Tuck Knee Plant",
+        "address": "40E77188",
+        "type": "Grab"
+    },
+    {
+        "description": "Double Grab",
+        "address": "40E77298",
+        "type": "Grab"
+    },
+    {
+        "description": "FS 360 Pop Shuvit",
+        "address": "40E773A8",
+        "type": "Flip"
+    },
+    {
+        "description": "Tailbone",
+        "address": "40E774B8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Fingerflip",
+        "address": "40E775C8",
+        "type": "Grab"
+    },
+    {
+        "description": "Fastplant",
+        "address": "40E776D8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS to Stale",
+        "address": "40E777E8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Varial",
+        "address": "40E778F8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Dark Slide",
+        "address": "40E77A08",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Dark Slide Double Grab",
+        "address": "40E77B18",
+        "type": "Grind"
+    },
+    {
+        "description": "Tail Grab FS Crooks",
+        "address": "40E77C28",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Crooked",
+        "address": "40E77D38",
+        "type": "Grind"
+    },
+    {
+        "description": "BS Grab FS Crooks",
+        "address": "40E77E48",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Handplant",
+        "address": "40E77F58",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Tailbone Plant",
+        "address": "40E78068",
+        "type": "Grab"
+    },
+    {
+        "description": "UNKOWN",
+        "address": "40E78178",
+        "type": "Misc"
+    },
+    {
+        "description": "FS Dark Slide Nose Grab",
+        "address": "40E78288",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Dark Slide Tail Grab",
+        "address": "40E78398",
+        "type": "Grind"
+    },
+    {
+        "description": "FS One Foot",
+        "address": "40E784A8",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Blunt",
+        "address": "40E785B8",
+        "type": "Grind"
+    },
+    {
+        "description": "Nose Grab FS 5-0",
+        "address": "40E786C8",
+        "type": "Grind"
+    },
+    {
+        "description": "FS 5-0",
+        "address": "40E787D8",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Grab FS 5-0",
+        "address": "40E788E8",
+        "type": "Grind"
+    },
+    {
+        "description": "UNKOWN",
+        "address": "40E78B08",
+        "type": "Misc"
+    },
+    {
+        "description": "Nose Grab FS Blunt",
+        "address": "40E78D28",
+        "type": "Grind"
+    },
+    {
+        "description": "FS Board",
+        "address": "40E78E38",
+        "type": "Grind"
+    },
+    {
+        "description": "Crail to Tail",
+        "address": "40E78F48",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Shifty Crail",
+        "address": "40E79278",
+        "type": "Grab"
+    },
+    {
+        "description": "Crail",
+        "address": "40E79388",
+        "type": "Grab"
+    },
+    {
+        "description": "BS Shifty Crail",
+        "address": "40E79498",
+        "type": "Grab"
+    },
+    {
+        "description": "FS Boneless",
+        "address": "40E797C8",
+        "type": "Grab"
+    },
+    {
+        "description": "Pop Shuvit Underflip",
+        "address": "40E79B08",
+        "type": "Flip"
+    },
+    {
+        "description": "Triple Kickflip Dark Catch",
+        "address": "40E79C18",
+        "type": "Flip"
+    },
+    {
+        "description": "Heelflip Underflip",
+        "address": "40E79F48",
+        "type": "Flip"
+    },
+    {
+        "description": "Heelflip Dark Catch",
+        "address": "40E7A058",
+        "type": "Flip"
+    },
+    {
+        "description": "Double Kickflip Dark Catch",
+        "address": "40E7A278",
+        "type": "Flip"
+    },
+    {
+        "description": "360 Inward Heelflip Dark Catch",
+        "address": "40E7A388",
+        "type": "Flip"
+    },
+    {
+        "description": "Late Backfoot Heelflip",
+        "address": "40E7A498",
+        "type": "Flip"
+    },
+    {
+        "description": "Late Backfoot Kickflip",
+        "address": "40E7A5A8",
+        "type": "Flip"
+    },
+    {
+        "description": "Laser Flip Dark Catch",
+        "address": "40E7A6B8",
+        "type": "Flip"
+    },
+    {
+        "description": "Kickflip Underflip",
+        "address": "40E7A7C8",
+        "type": "Flip"
+    },
+    {
+        "description": "360 Flip Dark Catch",
+        "address": "40E7A8D8",
+        "type": "Flip"
+    },
+    {
+        "description": "360 Hardflip Dark Catch",
+        "address": "40E7A9E8",
+        "type": "Flip"
+    },
+    {
+        "description": "Late Shuvit",
+        "address": "40E7AAF8",
+        "type": "Flip"
+    },
+    {
+        "description": "Kickflip Dark Catch",
+        "address": "40E7AC18",
+        "type": "Flip"
+    },
+    {
+        "description": "Quad Kickflip Dark Catch",
+        "address": "40E7AE38",
+        "type": "Flip"
+    },
+    {
+        "description": "Late Kickflip",
+        "address": "40E7AF48",
+        "type": "Flip"
+    },
+    {
+        "description": "Late Flip Dark Catch",
+        "address": "40E7B058",
+        "type": "Flip"
+    },
+    {
+        "description": "Late FS Shuvit",
+        "address": "40E7B168",
+        "type": "Flip"
+    },
+    {
+        "description": "Late Heelflip",
+        "address": "40E7B278",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Heelflip Underflip",
+        "address": "40E7B498",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Heelflip Dark Catch",
+        "address": "40E7B5A8",
+        "type": "Flip"
+    },
+    {
+        "description": "Dark Late Shuvit",
+        "address": "40E7B7C8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Double Kickflip Dark Catch",
+        "address": "40E7B9F8",
+        "type": "Flip"
+    },
+    {
+        "description": "Double Heelflip Dark Catch",
+        "address": "40E7BB08",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Quad Heelflip Dark Catch",
+        "address": "40E7BC18",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Double Heelflip Dark Catch",
+        "address": "40E7BE38",
+        "type": "Flip"
+    },
+    {
+        "description": "Dark Late Kickflip",
+        "address": "40E7BF48",
+        "type": "Flip"
+    },
+    {
+        "description": "Dark Late FS Shuvit",
+        "address": "40E7C058",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Pop Shuvit Underflip",
+        "address": "40E7C168",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Triple Heelflip Dark Catch",
+        "address": "40E7C388",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie 360 Inward Heel Dark Catch",
+        "address": "40E7C498",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie 360 Flip Dark Catch",
+        "address": "40E7C5A8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Laser Flip Dark Catch",
+        "address": "40E7C7C8",
+        "type": "Flip"
+    },
+    {
+        "description": "Triple Heelflip Dark Catch",
+        "address": "40E7C8D8",
+        "type": "Flip"
+    },
+    {
+        "description": "Quad Heelflip Dark Catch",
+        "address": "40E7C9E8",
+        "type": "Flip"
+    },
+    {
+        "description": "Dark Late Heelflip",
+        "address": "40E7CAF8",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie 360 Hardflip Dark Catch",
+        "address": "40E7CD18",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Triple Kickflip Dark Catch",
+        "address": "40E7D048",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Quad Kickflip Dark Catch",
+        "address": "40E7D158",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Kickflip Underflip",
+        "address": "40E7D268",
+        "type": "Flip"
+    },
+    {
+        "description": "Nollie Kickflip Dark Catch",
+        "address": "40E7D378",
+        "type": "Flip"
+    }
+]
