@@ -12,17 +12,30 @@
 * Click **ATTACH**. A list will pop up—select `EBOOT.BIN` and hit Enter.
 * Look at your TV. If you see *Client Connected* notifications, you are in.
 
+<p align="center">
+  <img src="Images/Connection.png" alt="Connection Tab" width="600"/>
+</p>
+
 ### 2. TRICK VALUES
 * Go to the **Trick Values** tab and pick a trick from the dropdown menus.
 * Type your new score value in the box on the right.  
   *(You can use normal numbers like `125`, or hex numbers like `0x9C`)*.
 * Click **Inject** to change the score, or **Default** to reset it back to normal.
 
+<p align="center">
+  <img src="Images/TrickValues.png" alt="Trick Values Tab" width="600"/>
+</p>
+
 ### 3. ANIMATION REPLACER
 * Go to the **Animation Replacer** tab.
 * **Left box (REPLACE):** The trick your skater is actually doing.
 * **Right box (WITH):** The new animation you want it to look like.
 * Click **Inject** to swap them. Click **Default** to fix it back to normal.
+
+<p align="center">
+  <img src="Images/AnimationReplacing.png" alt="Animation Replacer Tab" width="600"/>
+</p>
+
 
 > 💡 **TIP:** Setting the **WITH** box to `[Null]` completely deletes the animation. Your skater will freeze in an animation when doing the trick. Try it out on different tricks for glitched outcomes.
 
